@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: bug
+labels: ''
 assignees: ''
 ---
 ## 이슈 유형 (Issue Type)
